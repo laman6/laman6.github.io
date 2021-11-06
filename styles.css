@@ -189,8 +189,8 @@ section {
     width: 100%;
     min-width: 100%;
   }
-}
 
-.projects li: p{
+.projects li p{
   display: flex;
+}
 }
